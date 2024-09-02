@@ -15,7 +15,7 @@ export const Update = ({id}) => {
     e.preventDefault();
     console.log(UpdateDetails);
 
-    const url = `http://localhost:4200/Update/${id}`;
+    const url = `https://crud-express-hlr6.onrender.com/Update/${id}`;
 
     axios.put(url,UpdateDetails)
     .then((res) => {
