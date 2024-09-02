@@ -23,7 +23,7 @@ export default function Form() {
 
     console.log('Form Details:', Details);  // Log the form data
 
-    const url = "http://localhost:4200/Form";
+    const url = "https://crud-express-hlr6.onrender.com/Form";
 
     axios.post(url, Details)
     .then((res) => {
