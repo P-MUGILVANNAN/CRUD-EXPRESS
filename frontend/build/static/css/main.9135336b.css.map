@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.9135336b.css","mappings":"AAAA,mCACI,eACJ,CAEA,YACI,aACJ","sources":["component/pages/Pages.css"],"sourcesContent":["#Home, #AddEmployees, #ViewEmployees {\r\n    min-height: 80vh;\r\n} \r\n\r\n.Color_text {\r\n    color: #ffc107;\r\n}\r\n"],"names":[],"sourceRoot":""}
